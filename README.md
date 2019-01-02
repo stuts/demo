@@ -7,3 +7,5 @@ This is a simple read me file.
 This text is added in updates branch
 
 Updates in stage
+
+More updates in working directory

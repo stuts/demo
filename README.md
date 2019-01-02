@@ -3,3 +3,7 @@
 This is a simple read me file.
 
 ## Additional text
+
+This text is added in updates branch
+
+Updates in stage
